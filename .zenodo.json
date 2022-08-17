@@ -1,0 +1,41 @@
+{
+  "language": "eng",
+  "license": "MIT",
+  "title": "benfoley/rocrate-test-3",
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://github.com/benfoley/rocrate-test-3/tree/v0.0.0",
+      "relation": "isDerivedFrom",
+      "resource_type": "software"
+    },
+    {
+      "scheme": "url",
+      "identifier": "https://glam-workbench.net/ro-crate-test-3/",
+      "relation": "isDocumentedBy",
+      "resource_type": "publication-softwaredocumentation"
+    },
+    {
+      "scheme": "url",
+      "identifier": "https://glam-workbench.net/",
+      "relation": "isPartOf",
+      "resource_type": "other"
+    }
+  ],
+  "version": "v0.0.0",
+  "upload_type": "software",
+  "keywords": [
+    "digital humanities",
+    "Jupyter",
+    "GLAM Workbench"
+  ],
+  "publication_date": "2022-08-17",
+  "creators": [
+    {
+        "name": "Foley, Ben",
+        "orcid": "0000-0003-0879-9251"
+    }
+],
+  "access_right": "open",
+  "description": ""
+}
